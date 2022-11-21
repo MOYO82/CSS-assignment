@@ -1,0 +1,31 @@
+.main-container {
+    background-color: white;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.First-section {
+    font-size: 14px;
+    border: 2px solid gainsboro;
+    margin: 20px;
+    color: green;
+    padding: 10px;
+    text-align: justify; 
+}
+.Second-section {
+    font-size: 14px;
+    border: 2px dotted aqua;
+    margin:20px;
+    color: red;
+    padding: 10px 15px; 
+    text-align: justify;
+}
+
+.Third-section {
+    font-size: 14px;
+    border: 2px solid gainsboro;
+    margin: 20px;  
+    padding: 10px;
+    color: blue;
+    text-align: justify;
+}
